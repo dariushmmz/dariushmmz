@@ -1,4 +1,5 @@
-![header](./obsesswithyourpotential.jpg)
+<img src="./obsesswithyourpotential.jpg" alt="Header Image" width="800" height="200">
+
 
 Greetings and respect,
 I’m Dariush, a Computer Engineering student passionate about building intelligent systems that learn from data.
