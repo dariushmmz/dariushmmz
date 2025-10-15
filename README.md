@@ -1,4 +1,5 @@
-<img src="./obsesswithyourpotential.jpg" alt="Header Image" width="800" height="200">
+<img src="./obsesswithyourpotential.jpg" alt="Header Image" style="max-width:100%; height:auto;">
+
 
 
 Greetings and respect,
