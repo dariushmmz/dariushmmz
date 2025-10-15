@@ -9,7 +9,7 @@ Here are some of my certifications and achievements:
 
 ---
 
-### Deep Learning with PyTorch (2022 / 1401)
+### Machine Learning with Jadi Mirmirani (2022 / 1401)
 <img src="Amir mohammad Mohammadzadeh-MK-1LOAPC.png" alt="Deep Learning with PyTorch" width="600"/>
 
 ---
