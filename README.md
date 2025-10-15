@@ -1,4 +1,4 @@
-## 👋 Greetings and respect,  
+## Greetings and respect,  
 
 I’m **Dariush**, a **Computer Engineering student** passionate about building intelligent systems that learn from data.  
 
