@@ -1,4 +1,4 @@
-<img src="./obsesswithyourpotential.jpg" alt="Header Image" style="max-width:100%; height:auto;">
+<img src="./370336_c4f511e0eabcb84e5ad55857b4de2fec (1).webp" alt="Header Image" style="max-width:100%; height:auto;">
 
 
 
@@ -17,3 +17,5 @@ My expertise covers:
   
 I’m ready to collaborate on developing and improving deep neural network and language model–based solutions.
 
+##### 📜 Certifications
+You can view my certifications [here](certifications.md)
