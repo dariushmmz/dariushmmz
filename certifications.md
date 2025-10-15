@@ -17,4 +17,4 @@ Here are some of my certifications and achievements:
 
 
 
-You can also see the **main portfolio** [here](../README.md)
+You can also see the **main portfolio** [here](README.md)
