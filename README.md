@@ -1,4 +1,4 @@
-![header](obsess with your potential.jpg)
+![header]("./obsess with your potential.jpg")
 
 Greetings and respect,
 I’m Dariush, a Computer Engineering student passionate about building intelligent systems that learn from data.
