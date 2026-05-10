@@ -17,7 +17,7 @@ I have full mastery of:
 - Practical simulation in industry, medicine, and agriculture
 - Production-level model deployment + robust API
 
-Freelance @ ParsCoder/Karlancer/Ponisha & private clients | Telegram: [https://t.me/amixrmz]
+Freelance @ ParsCoder/Karlancer/Ponisha & private clients | Telegram [ @amixrmz ]
 
 ##### 📜 Certifications
 You can view my certifications [here](certifications.md)
