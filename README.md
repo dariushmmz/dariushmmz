@@ -2,20 +2,20 @@
 
 
 
-### Greetings and respect,  
+Greetings and respect. I am a:
 
-I’m **Dariush**, a **Computer Engineering student** passionate about building intelligent systems that learn from data.  
+- **Data Engineer** specializing in Data Engineering, Machine Learning models, and Neural Networks (ML/AI Engineering)
+- **Developer of LLM-based solutions**
+- **Computer Vision Expert**
 
-I specialize in **Machine Learning** and **Image/Text Processing**, with over **3 years of experience** in diverse **Data Science projects**.  
-My expertise covers:  
+I have full mastery of:
 
--  **Deep Neural Networks** — design, training, and optimization  
--  **Data Processing & Visualization** — transforming raw data into meaningful insights  
--  **Model Building & Fine-Tuning** — designing new architectures and improving pre-trained models for real-world performance  
--  **Computer Vision** — segmentation, detection, and generative modeling  
--  **Language Models (NLP)** — from text classification to transformer-based architectures
-  
-I’m ready to collaborate on developing and improving deep neural network and language model–based solutions.
+- Consulting & end-to-end implementation of data-driven products
+- Intelligent assistants (LLM Agents) tailored to business needs
+- Control & monitoring systems with object tracking
+- Advanced OCR and intelligent text extraction
+- Practical simulation in industry, medicine, and agriculture
+- Production-level model deployment + robust API
 
 ##### 📜 Certifications
 You can view my certifications [here](certifications.md)
