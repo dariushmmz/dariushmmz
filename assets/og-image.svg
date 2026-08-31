@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dariush Mohammadzadeh — ML / AI Engineer</title>
+  <desc id="desc">Portfolio social sharing image with an abstract neural network.</desc>
+  <defs>
+    <radialGradient id="g" cx="70%" cy="30%" r="80%"><stop stop-color="#20375d"/><stop offset="1" stop-color="#07111f"/></radialGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0v52" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="translate(760 90)" fill="none" stroke="#5eead4" stroke-opacity=".35">
+    <circle cx="190" cy="220" r="180" stroke-dasharray="4 10"/>
+    <circle cx="190" cy="220" r="120"/>
+    <path d="m42 140 119 58 115-96M161 198l94 114M42 140l73 210m140-38 93-90"/>
+    <g fill="#5eead4" stroke="none"><circle cx="42" cy="140" r="9"/><circle cx="161" cy="198" r="12"/><circle cx="276" cy="102" r="8"/><circle cx="255" cy="312" r="10"/><circle cx="115" cy="350" r="7"/><circle cx="348" cy="222" r="9"/></g>
+  </g>
+  <text x="76" y="100" fill="#5eead4" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="4">PORTFOLIO · 2026</text>
+  <text x="76" y="240" fill="#fff" font-family="Segoe UI, sans-serif" font-size="70" font-weight="750" letter-spacing="-4">Dariush</text>
+  <text x="76" y="315" fill="#fff" font-family="Segoe UI, sans-serif" font-size="70" font-weight="750" letter-spacing="-4">Mohammadzadeh</text>
+  <text x="78" y="382" fill="#9bacc0" font-family="Segoe UI, sans-serif" font-size="27">Machine Learning / AI Engineer</text>
+  <text x="78" y="482" fill="#5eead4" font-family="Segoe UI, sans-serif" font-size="19">Computer Vision · Graph Learning · LLM Systems · Data Science</text>
+</svg>
