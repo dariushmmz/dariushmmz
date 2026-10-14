@@ -3,6 +3,6 @@
 - AI Systems Engineer — LLMs, RAG & AI Agents
 - Machine Learning Engineer — Deep Learning & Neural Networks
 - Computer Vision — Recognition & Image Enhancement
-- 
+ 
 ##### 📜 Certifications
 You can view my certifications [here](certifications.md)
